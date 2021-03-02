@@ -2,21 +2,21 @@
 
 
 # Design
-My initial design goal was to make it more visually appealing but more importantly to make it enclosed so it was possible to print more demanding/picky materials on it such as ABS, ASA, PC, etc. 
-In the process I stumbled across many ideas which I implemented either by changing the original or by drawing up my own.
-The XY gantry design stems from Thingiverse user Gavitka who did an awesome job of providing improved funcionality and a little bit more of visual ease.
-Another design goal was to reduce the total part count which I am still working on.
+My initial design goal was to make it more visually appealing but more importantly to make it enclosed so it was possible to print more demanding/picky materials on it such as ABS, ASA, PC, etc.
 
 # Features
-- Fully enclosed build chamber
-- Backpack style electronics
+- Laser Cut Stainless Steel Frame (ideally 400-series)
+- Printed parts designed with FEA for optimal part strength (work in progress)
+- Fully enclosed build chamber (work in progress)
+- Backpack style electronics (with a focus on CE certification)
 - 235mm^3 build area
-- Sherpa Minihotend adaptation
+- Sherpa Mini and Mosquito hotend adaptation
 - Blind jointed frame
-- Annex engineering micro switch magnetic probe
+- Annex Engineering micro switch magnetic probe
 - Klipper firmware
 - Neopixel Lighting 
-
+- CFD optimized dual 5015 part cooling fan (work in progress)
+- Manufacturing and Sourcing practicality and feasibility study in the works as well (hey can’t leave out business and econ)
 
 More features such as 3 point bed leveling are in the planning but not implemented as of yet. I am also planning to write a full set of assembly instructions and publish all firmware configurations and such on here at a later point. 
 
@@ -28,4 +28,7 @@ This project is still a work in progress and everything is subject to change. I 
 <https://cad.onshape.com/documents/68f8f21edd519973733ec840/w/6f31abde7d9e0803b334902d/e/5fe61319dd054298cad69c50>
 
 # Thanks
-  Thanks to the Annex Engineering Team for all your input and desgins such as the Sherpa mini extruder and Pringineer for your input as well!
+  Thanks to the Annex Engineering Team for all your input and desgins such as the Sherpa mini extruder and Pringineer for your input as well. As well to Chris Kissling of kis3d.!
+  
+  <https://github.com/Pringineer>
+  <https://github.com/Annex-Engineering>
