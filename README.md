@@ -17,6 +17,7 @@ My initial design goal was to make it more visually appealing but more important
 - Klipper firmware
 - Neopixel Lighting 
 - CFD optimized dual 5015 part cooling fan (work in progress)
+- Focus on using the best parts availble (with cost within reason)
 - Manufacturing and Sourcing practicality and feasibility study in the works as well (hey can’t leave out business and econ)
 
 More features such as 3 point bed leveling are in the planning but not implemented as of yet. I am also planning to write a full set of assembly instructions and publish all firmware configurations and such on here at a later point. 
