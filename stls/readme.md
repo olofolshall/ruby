@@ -6,3 +6,6 @@
   - Fan ducts are in the works
  
   
+# Annex Parts
+- https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
+- https://github.com/Annex-Engineering/Annex-Engineering_Other_Printer_Mods/tree/master/All_Printers/Microswitch_Probe
