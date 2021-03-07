@@ -22,6 +22,8 @@ My initial design goal was to make it more visually appealing but more important
 
 More features such as 3 point bed leveling are in the planning but not implemented as of yet. I am also planning to write a full set of assembly instructions and publish all firmware configurations and such on here at a later point. 
 
+# Currently a WIP
+  Prototype machine is assembled but not printing yet but should be done with testing before end of March.
  
  # Important notes
 This project is still a work in progress and everything is subject to change. I am mostly done ordering parts and have started assembling individual sections of the printer. For all sources of inspiration or parts/models I used which are not my own design please see the Sources file which will include links. If you see some of your design or are in doubt of any violated licenses please contact me and I will investigate ASAP.
