@@ -10,9 +10,9 @@ My initial design goal was to make it more visually appealing but more important
 - Fully enclosed build chamber (work in progress)
 - Backpack style electronics (with a focus on CE certification)
 - 235mm^3 build area
-- Sherpa Mini and Mosquito hotend adaptation
+- Annex Sherpa Mini and Mosquito hotend adaptation
 - Blind jointed frame
-- Annex Engineering Carabiner with IGUS cable for easy cable management
+- Annex Engineering Carabiner with IGUS cable for easy cable management 
 - Annex Engineering micro switch magnetic probe
 - Klipper firmware
 - Neopixel Lighting 
