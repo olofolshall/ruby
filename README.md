@@ -6,7 +6,7 @@ My initial design goal was to make it more visually appealing but more important
 
 # Features
 - Laser Cut Stainless Steel Frame (ideally 400-series)
-- Printed parts designed with FEA for optimal part strength (work in progress)
+- Custom designed printed parts designed with FEA for optimal part strength (work in progress)
 - Fully enclosed build chamber (work in progress)
 - Backpack style electronics (with a focus on CE certification)
 - 235mm^3 build area
