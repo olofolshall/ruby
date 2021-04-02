@@ -1,4 +1,4 @@
-# ruby![render1](https://user-images.githubusercontent.com/27706996/109655670-d5919a00-7b63-11eb-887c-a13a5abe07cc.jpg)
+# ruby![render1][image-1]
 
 
 # Design
@@ -25,15 +25,21 @@ More features such as 3 point bed leveling are in the planning but not implement
 # Currently a WIP
   Prototype machine is assembled but not printing yet but should be done with testing before end of March.
  
- # Important notes
+ \# Important notes
 This project is still a work in progress and everything is subject to change. I am mostly done ordering parts and have started assembling individual sections of the printer. For all sources of inspiration or parts/models I used which are not my own design please see the Sources file which will include links. If you see some of your design or are in doubt of any violated licenses please contact me and I will investigate ASAP.
 
 # Current Cad Link:
-<https://cad.onshape.com/documents/68f8f21edd519973733ec840/w/6f31abde7d9e0803b334902d/e/5fe61319dd054298cad69c50>
+[https://cad.onshape.com/documents/68f8f21edd519973733ec840/w/6f31abde7d9e0803b334902d/e/5fe61319dd054298cad69c50][1]
 
 # Thanks for all the Support!
   Thanks to the Annex Engineering Team for all your input and desgins such as the Sherpa mini extruder and Pringineer for your input as well. As well to Chris Kissling of kis3d.!
   
-  <https://github.com/Pringineer>
-  <https://github.com/Annex-Engineering>
+  [https://github.com/Pringineer][2]
+  [https://github.com/Annex-Engineering][3]
   https://www.kis3d.de/
+
+[1]:	https://cad.onshape.com/documents/68f8f21edd519973733ec840/w/6f31abde7d9e0803b334902d/e/5fe61319dd054298cad69c50
+[2]:	https://github.com/Pringineer
+[3]:	https://github.com/Annex-Engineering
+
+[image-1]:	https://user-images.githubusercontent.com/27706996/109655670-d5919a00-7b63-11eb-887c-a13a5abe07cc.jpg
